@@ -93,10 +93,15 @@ social:
   name                   :
   links                  : []
 
+# analytics:
+#   provider               : false
+#   google:
+#     tracking_id          :
+
 analytics:
-  provider               : false
+  provider: "google-analytics-4"
   google:
-    tracking_id          :
+    tracking_id: "G-DCJPRENL9J"
 
 include:
   - .htaccess
