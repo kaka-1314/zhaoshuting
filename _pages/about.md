@@ -36,7 +36,7 @@ My research focuses on human motion tracking, 3D reconstruction, and depth estim
 <div class="news-box">
   <ul class="news-list">
     <li><span class="news-date"><em>2026.08</em></span><span class="news-text">I begin my Ph.D. at the National University of Singapore.</span></li>
-    <li><span class="news-date"><em>2026.07</em></span><span class="news-text">Our paper <a href="https://xiuyuliang.cn/publication.html#wang2026dirtymocap" target="_blank">DirtyMoCap</a> is accepted by <strong>SIGGRAPH Asia 2026</strong>.</span></li>
+    <li><span class="news-date"><em>2026.07</em></span><span class="news-text">Our paper <a href="https://wanglongzju.github.io/DirtyMoCap-Project-Page/" target="_blank">DirtyMoCap</a> is accepted by <strong>SIGGRAPH Asia 2026</strong>.</span></li>
     <li><span class="news-date"><em>2025.12</em></span><span class="news-text">Our paper <a href="https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2025.1706626/full" target="_blank">IAP-TransUNet</a> is published in <strong>Frontiers in Neurorobotics</strong>.</span></li>
     <li><span class="news-date"><em>2025.11</em></span><span class="news-text">Our paper <a href="https://kaka-1314.github.io/KineST/" target="_blank">KineST</a> is accepted by <strong>AAAI 2026</strong>.</span></li>
     <li><span class="news-date"><em>2025.06</em></span><span class="news-text">Our paper <a href="https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2025.1630728/full" target="_blank">Mip-EndoGS</a> is published in <strong>Frontiers in Neurorobotics</strong>.</span></li>
@@ -108,7 +108,7 @@ My research focuses on human motion tracking, 3D reconstruction, and depth estim
 <div id="core-publications" class="publication-view" data-publication-view="core">
   <div class="publication-card featured publication-card--rich publication-card--dirtymocap">
     <div class="publication-layout">
-      <a class="publication-media" href="https://xiuyuliang.cn/publication.html#wang2026dirtymocap" target="_blank" aria-label="Open the DirtyMoCap publication page">
+      <a class="publication-media" href="https://wanglongzju.github.io/DirtyMoCap-Project-Page/" target="_blank" aria-label="Open the DirtyMoCap publication page">
         <img src="images/publications/dirtymocap-cover.png" alt="DirtyMoCap preview" class="publication-thumb">
         <video class="publication-hover-video" muted loop playsinline preload="auto" poster="images/publications/dirtymocap-cover.png" aria-label="DirtyMoCap motion capture preview video">
           <source src="images/publications/dirtymocap_hover.mp4?v=20260804" type="video/mp4">
@@ -116,11 +116,16 @@ My research focuses on human motion tracking, 3D reconstruction, and depth estim
       </a>
       <div class="publication-copy">
         <strong class="publication-title">
-          <a href="https://xiuyuliang.cn/publication.html#wang2026dirtymocap" target="_blank">DirtyMoCap: Robust Motion Capture from Unconstrained Markers</a>
+          <a href="https://wanglongzju.github.io/DirtyMoCap-Project-Page/" target="_blank">DirtyMoCap: Robust Motion Capture from Unconstrained Markers</a>
         </strong><br>
         <i>Long Wang, <span class="self-author">Shuting Zhao</span>, Shen Yan, Siyuan Yu, Xiaoben Li, Zeyu Cai, Yumeng Hou, Yuliang Xiu.</i><br>
         <span class="publication-summary">A robust motion capture framework for recovering human motion from unconstrained and noisy marker setups, improving capture reliability beyond controlled studio conditions.</span><br>
         <span class="publication-meta"><b><i>SIGGRAPH Asia 2026</i></b></span>
+        <span class="publication-links">
+          <a href="https://wanglongzju.github.io/DirtyMoCap-Project-Page/" target="_blank"><em>[project page]</em></a>
+          <a href="https://arxiv.org/abs/2609.19927" target="_blank"><em>[arXiv]</em></a>
+          <a href="https://github.com/WangLongZJU/DirtyMoCap" target="_blank"><em>[code]</em></a>
+        </span>
       </div>
     </div>
   </div>
@@ -210,7 +215,7 @@ My research focuses on human motion tracking, 3D reconstruction, and depth estim
 
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
-    <li><span class="pub-list-badge">SIGGRAPH Asia 2026</span> DirtyMoCap: Robust Motion Capture from Unconstrained Markers — L. Wang, <span class="pub-list-self">S. Zhao</span>, S. Yan, S. Yu, X. Li, Z. Cai, Y. Hou, Y. Xiu.</li>
+    <li><span class="pub-list-badge">SIGGRAPH Asia 2026</span> DirtyMoCap: Robust Motion Capture from Unconstrained Markers — L. Wang, <span class="pub-list-self">S. Zhao</span>, S. Yan, S. Yu, X. Li, Z. Cai, Y. Hou, Y. Xiu. <span class="pub-list-links"><a href="https://wanglongzju.github.io/DirtyMoCap-Project-Page/" target="_blank">[project page]</a><a href="https://arxiv.org/abs/2609.19927" target="_blank">[arXiv]</a><a href="https://github.com/WangLongZJU/DirtyMoCap" target="_blank">[code]</a></span></li>
     <li><span class="pub-list-badge">AAAI 2026</span> KineST: A Kinematics-guided Spatiotemporal State Space Model for Human Motion Tracking from Sparse Signals — <span class="pub-list-self">S. Zhao*</span>, Z. Xiao*, X. Chen.</li>
     <li><span class="pub-list-badge">Frontiers in Neurorobotics 2025</span> IAP-TransUNet: Integration of the Attention Mechanism and Pyramid Pooling for Medical Image Segmentation — Y. Shi*, F. Li*, <span class="pub-list-self">S. Zhao*</span>, H. Yu, X. Chen, Q. Liu.</li>
     <li><span class="pub-list-badge">TCSVT 2025</span> EndoLoc: Relative Pose Regression Framework with Transformation and Correlation Features for Visual Localization of Endoscope — L. Shao, B. Chen, <span class="pub-list-self">S. Zhao</span>, F. Yang, X. Chen.</li>
